@@ -70,6 +70,15 @@ Performance Considerations:
 The use of Provider for state management suggests the app is designed with performance in mind, avoiding unnecessary rebuilds of the widget tree.
 This e-commerce application provides a streamlined shopping experience, allowing users to browse products, view details, manage their cart, and potentially complete purchases, all within a cohesive and responsive mobile application. The structure suggests a focus on modularity and maintainability, with separate screens for different functionalities and a centralized state management system.
 
+
+working flow :
+![image](https://github.com/user-attachments/assets/d8e14a43-6b01-4772-966c-9523976e115b)
+![image](https://github.com/user-attachments/assets/2b3fcd0d-3659-4413-a0f4-51753a6edbb1)
+![image](https://github.com/user-attachments/assets/22f81a50-c1f0-4d9f-968d-88cd2e0e3972)
+![image](https://github.com/user-attachments/assets/2cf8935d-6b82-414b-9e4e-2c9bdbd552ff)
+![image](https://github.com/user-attachments/assets/32bd8e99-514d-4ff6-a055-90c0f9eaedf3)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
